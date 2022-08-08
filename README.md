@@ -1,3 +1,3 @@
 # URL Shortener Microservice
 
-URL Shortener Micro-service project for FCC Back-end Certification.
+Shortens given long URL to an unique short URL.
